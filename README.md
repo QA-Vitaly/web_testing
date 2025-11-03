@@ -58,3 +58,10 @@ graph TD
 ### 4. Результаты тестирования
 - [🐛 13 Баг-репортов в Jira](https://drive.google.com/file/d/1h9RkRBhX1Hl7StTJXHwplM4MMXWC9ftp/view)
 - [📊 Матрица соответствия требований](https://docs.google.com/spreadsheets/d/1ReGnK1sFtsbeBhOegeaHaxGcGD4ezzOJaftrRCd3PB0/edit)
+
+## 🔗 Связанные проекты
+
+### 📱 Полный цикл тестирования:
+- [🛒 Тестирование интернет-магазина](https://github.com/QA-Vitaly/web_testing) - этот проект
+- [🌐 API тестирование](https://github.com/QA-Vitaly/api_testing)
+- [🐬 Тестирование БД](https://github.com/QA-Vitaly/MySQL) 
